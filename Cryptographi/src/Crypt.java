@@ -7,7 +7,7 @@ public class Crypt extends Frame
 {
 	public Crypt()
 	{
-		super("Шифрование RSA");
+		super("Шифрование RSA"); // комментарий	
 		this.setSize(450, 300);
 		this.setResizable(false);
 		setFont(new Font("Serif",Font.PLAIN,16));
